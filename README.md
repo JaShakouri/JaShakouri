@@ -47,8 +47,8 @@ I'm a self-taught passionate FullStack developer from Iran
 
 #### Top Repositories
 
-<a href="https://github.com/JaShakouri/OpenCv-face-detection-recorder"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=OpenCv-face-detection-recorder&theme=tokyonight" /></a><a href="https://github.com/JaShakouri/Offline-First"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=Offline-First&theme=tokyonight" />
-</a>
+| <a href="https://github.com/JaShakouri/OpenCv-face-detection-recorder"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=OpenCv-face-detection-recorder&theme=tokyonight" /></a> | <a href="https://github.com/JaShakouri/Offline-First"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=Offline-First&theme=tokyonight" /></a> |
+| - | - |
 
 
 <!-- <a href="https://twitter.com/anuraghazru">
