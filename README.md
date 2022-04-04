@@ -12,28 +12,35 @@ I'm a self-taught passionate FullStack developer from Iran
 
 - 💬 Ask me about anything [here](https://github.com/jashakouri/jashakouri/issues)
 
+- Languages
+
 <div>
-  <img width="48" src="./assets/java-icon.png">
-  <img width="48" src="./assets/kotlin-icon.png">
-  <img width="48" src="./assets/dart-icon.png">
-  <img width="48" src="./assets/js-icon.png">
+  <img width="68" src="./assets/java-icon.png">
+  <img width="68" src="./assets/kotlin-icon.png">
+  <img width="68" src="./assets/dart-icon.png">
+  <img width="68" src="./assets/js-icon.png">
 </div>
-<br />
 
-<img width="48" src="./assets/spring-icon.png">
-<img width="48" src="./assets/flutter-icon.png">
-<img width="48" src="./assets/react-icon.png">
-<br />
+- Frameworks
 
-<img width="48" src="./assets/docker-icon.png">
-<img width="48" src="./assets/git-icon.png">
-<img width="48" src="./assets/linux-icon.png">
+<div>
+  <img width="68" src="./assets/spring-icon.png">
+  <img width="68" src="./assets/flutter-icon.png">
+  <img width="68" src="./assets/react-icon.png">
+</div>
+
+- Tools
+
+<div>
+  <img width="68" src="./assets/docker-icon.png">
+  <img width="68" src="./assets/git-icon.png">
+  <img width="68" src="./assets/linux-icon.png">
+</div>
 
 | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
-
 
 <a href="https://github.com/JaShakouri/OpenCv-face-detection-recorder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=OpenCv-face-detection-recorder&theme=buefy" />
