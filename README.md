@@ -10,15 +10,22 @@ I'm a self-taught passionate FullStack developer from Iran
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
-- ❤️ I love writing application with java, flutter, kotlin and building useful program
-
 - 💬 Ask me about anything [here](https://github.com/jashakouri/jashakouri/issues)
 
-<code><img height="32" width="32" src="./assets/java-icon.png"></code>
-<code><img height="32" width="32" src="./assets/kotlin-icon.png"></code>
-<code><img height="32" width="32" src="./assets/dart-icon.png"></code>
-<code><img height="32" width="32" src="./assets/js-icon.png"></code>
+<img width="48" src="./assets/java-icon.png">
+<img width="48" src="./assets/kotlin-icon.png">
+<img width="48" src="./assets/dart-icon.png">
+<img width="48" src="./assets/js-icon.png">
+<br />
 
+<img width="48" src="./assets/spring-icon.png">
+<img width="48" src="./assets/flutter-icon.png">
+<img width="48" src="./assets/react-icon.png">
+<br />
+
+<img width="48" src="./assets/docker-icon.png">
+<img width="48" src="./assets/git-icon.png">
+<img width="48" src="./assets/linux-icon.png">
 
 | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
