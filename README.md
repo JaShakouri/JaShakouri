@@ -1,6 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<!-- <p align="center"><a href="https://jashakouri.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
 
 I'm a self-taught passionate FullStack developer from Iran
 
@@ -12,33 +10,31 @@ I'm a self-taught passionate FullStack developer from Iran
 
 - 💬 Ask me about anything [here](https://github.com/jashakouri/jashakouri/issues)
 
-- Languages
-
-<div>
-  <img width="68" src="./assets/java-icon.png">
-  <img width="68" src="./assets/kotlin-icon.png">
-  <img width="68" src="./assets/dart-icon.png">
-  <img width="68" src="./assets/js-icon.png">
-</div>
-
-- Frameworks
-
-<div>
-  <img width="68" src="./assets/spring-icon.png">
-  <img width="68" src="./assets/flutter-icon.png">
-  <img width="68" src="./assets/react-icon.png">
-</div>
-
-- Tools
-
-<div>
-  <img width="68" src="./assets/docker-icon.png">
-  <img width="68" src="./assets/git-icon.png">
-  <img width="68" src="./assets/linux-icon.png">
-</div>
+<br />
 
 | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<br />
+
+<div>
+  <img href='javascript:void(0);' width="68" src="./assets/java-icon.png">
+  <img href='javascript:void(0);' width="68" src="./assets/kotlin-icon.png">
+  <img href='javascript:void(0);' width="68" src="./assets/dart-icon.png">
+  <img href='javascript:void(0);' width="68" src="./assets/js-icon.png">
+</div>
+
+<div>
+  <img href='javascript:void(0);' width="68" src="./assets/spring-icon.png">
+  <img href='javascript:void(0);' width="68" src="./assets/flutter-icon.png">
+  <img href='javascript:void(0);' width="68" src="./assets/react-icon.png">
+</div>
+
+<div>
+  <img href='javascript:void(0);' width="68" src="./assets/docker-icon.png">
+  <img href='javascript:void(0);' width="68" src="./assets/git-icon.png">
+  <img href='javascript:void(0);' width="68" src="./assets/linux-icon.png">
+</div>
 
 #### Top Repositories
 
