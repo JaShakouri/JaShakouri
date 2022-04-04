@@ -1,6 +1,6 @@
 <!-- <p align="center"><a href="https://jashakouri.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
 
-<div style="display: flex;align-items: baseline;">
+<div style="display: flex;align-items: baseline;width= 100%">
 
   <div style="width: 60%">
     <a href="https://github.com/jashakouri"><img src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Anurag's github stats" /></a>
