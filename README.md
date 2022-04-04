@@ -12,10 +12,12 @@ I'm a self-taught passionate FullStack developer from Iran
 
 - 💬 Ask me about anything [here](https://github.com/jashakouri/jashakouri/issues)
 
-<img width="48" src="./assets/java-icon.png">
-<img width="48" src="./assets/kotlin-icon.png">
-<img width="48" src="./assets/dart-icon.png">
-<img width="48" src="./assets/js-icon.png">
+<div>
+  <img width="48" src="./assets/java-icon.png">
+  <img width="48" src="./assets/kotlin-icon.png">
+  <img width="48" src="./assets/dart-icon.png">
+  <img width="48" src="./assets/js-icon.png">
+</div>
 <br />
 
 <img width="48" src="./assets/spring-icon.png">
