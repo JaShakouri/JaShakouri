@@ -6,7 +6,7 @@
     <a href="https://github.com/jashakouri"><img src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Anurag's github stats" /></a>
   </div>
 
-  <div style="width: 40%">
+  <div style="width: 50%">
     <a href="https://github.com/jashakouri"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=tokyonight&hide_border=false" /></a>
   </div>
 
