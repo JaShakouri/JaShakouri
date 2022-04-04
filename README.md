@@ -1,39 +1,48 @@
 <!-- <p align="center"><a href="https://jashakouri.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
 
-I'm a self-taught passionate FullStack developer from Iran
-
-**About me**
-
-- 💼 CTO - Software Engineer at [Otamin](http://otamin.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- 💬 Ask me about anything [here](https://github.com/jashakouri/jashakouri/issues)
-
-<br />
-
 | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
 
-<div>
-  <img href='javascript:void(0);' width="68" src="./assets/java-icon.png">
-  <img href='javascript:void(0);' width="68" src="./assets/kotlin-icon.png">
-  <img href='javascript:void(0);' width="68" src="./assets/dart-icon.png">
-  <img href='javascript:void(0);' width="68" src="./assets/js-icon.png">
+I'm a self-taught passionate FullStack developer from Iran
+
+**About me**
+
+- 💼 CTO - Software Engineer at [Otamin](http://otamin.com/)
+- Advance experience with java spring, android native with java and kotlin, advance flutter and beginner on react
+
+- 💬 Ask me about anything [here](https://github.com/jashakouri/jashakouri/issues)
+
+<br />
+
+**Languages**
+
+<div style="display: flex">
+  <img width="68" src="./assets/java-icon.png">
+  <img width="68" src="./assets/kotlin-icon.png">
+  <img width="68" src="./assets/dart-icon.png">
+  <img width="68" src="./assets/js-icon.png">
 </div>
 
-<div>
-  <img href='javascript:void(0);' width="68" src="./assets/spring-icon.png">
-  <img href='javascript:void(0);' width="68" src="./assets/flutter-icon.png">
-  <img href='javascript:void(0);' width="68" src="./assets/react-icon.png">
-</div>
+<br />
+
+**Frameworks**
 
 <div>
-  <img href='javascript:void(0);' width="68" src="./assets/docker-icon.png">
-  <img href='javascript:void(0);' width="68" src="./assets/git-icon.png">
-  <img href='javascript:void(0);' width="68" src="./assets/linux-icon.png">
+  <img width="68" src="./assets/spring-icon.png">
+  <img width="68" src="./assets/flutter-icon.png">
+  <img width="68" src="./assets/react-icon.png">
+</div>
+
+<br />
+
+**Tools**
+
+<div>
+  <img width="68" src="./assets/docker-icon.png">
+  <img width="68" src="./assets/git-icon.png">
+  <img width="68" src="./assets/linux-icon.png">
 </div>
 
 #### Top Repositories
