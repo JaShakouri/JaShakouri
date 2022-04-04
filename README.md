@@ -1,7 +1,10 @@
 <!-- <p align="center"><a href="https://jashakouri.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
 
-| <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=tokyonight&hide_border=false" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/jashakouri">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=tokyonight&hide_border=false" /></a>
+
 
 <br />
 
