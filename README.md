@@ -14,12 +14,10 @@ I'm a self-taught passionate FullStack developer from Iran
 
 - 💬 Ask me about anything [here](https://github.com/jashakouri/jashakouri/issues)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  
+<code><img height="20" width="20" src="./assets/java-icon.png"></code>
+<code><img height="20" width="20" src="./assets/kotlin-icon.png"></code>
+<code><img height="20" width="20" src="./assets/dart-icon.png"></code>
+<code><img height="20" width="20" src="./assets/js-icon.png"></code>
 
 
 | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -31,9 +29,11 @@ I'm a self-taught passionate FullStack developer from Iran
 <a href="https://github.com/JaShakouri/OpenCv-face-detection-recorder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=OpenCv-face-detection-recorder&theme=buefy" />
 </a>
+
 <a href="https://github.com/JaShakouri/Offline-First">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=Offline-First&theme=buefy" />
 </a>
+
 <a href="https://github.com/JaShakouri/flutter-reserve">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=flutter-reserve&theme=buefy" />
 </a>
