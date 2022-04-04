@@ -22,17 +22,20 @@ I'm a self-taught passionate FullStack developer from Iran
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/JaShakouri/OpenCv-face-detection-recorder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=OpenCv-face-detection-recorder&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/JaShakouri/Offline-First">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=Offline-First&theme=buefy" />
+</a>
+<a href="https://github.com/JaShakouri/flutter-reserve">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=flutter-reserve&theme=buefy" />
 </a>
 
 <br />
