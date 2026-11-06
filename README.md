@@ -4,55 +4,66 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/javad-shakouri"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://stackoverflow.com/users/6145979/javad-shakouri"><img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
+    <a href="https://jaShakouri.ir"><img src="https://img.shields.io/badge/-Blog_%26_Articles-10B981?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+    <a href="https://docs.google.com/document/d/e/2PACX-1vQdzsTwN5dFsUProOMJlSqkpGu3nHWe_MSOGSJNEp3uaN6BgWSv6PrxBh3_MNQAlg9IZYK6GoAoBSHQ/pub"><img src="https://img.shields.io/badge/-Full_Resume-F58025?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
     <a href="mailto:Jashakouri@Gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
   </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=JaShakouri&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JaShakouri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  </a>
 </div>
 
 ---
 
-### 🧠 The Human Behind the Code
+### 🧠 The Human Behind the Code & What I'm Up To
 
-Welcome to my digital workspace! I'm not just a developer who writes code; I'm a pragmatist who solves deep architectural bottlenecks. With over 15 years in the trenches of enterprise software, my philosophy is simple: **Build self-sufficient teams, design zero-dependency architectures, and leave legacy codebases vastly better than I found them.**
+I'm a pragmatist who solves deep architectural bottlenecks. ⚡ **Fun fact:** I started my career as a university TA and programming instructor. Today, I still use those teaching skills to build engineering teams and explain complex thread deadlocks like a professor!
 
-> *"Good architecture is about making the hard things possible and the complex things maintainable."*
-
-- 🎯 **First-Principles Problem Solving:** I focus on the root causes of system failures—whether it's thread starvation, database lock contention, or memory leaks—before throwing new frameworks at the problem.
-- 🤝 **Mentorship & Team Building:** I believe in sharing knowledge. I've trained hundreds of engineers across technical institutes and love turning junior developers into independent problem solvers.
-- 📐 **Core Disciplines:** Domain-Driven Design (DDD), Clean Architecture, Test-Driven Development (TDD), and Event-Driven Microservices.
-
----
-
-### 🚀 Current Trajectory & Milestones
-
-- 🏛️ **Currently:** Architecting the core enterprise platform for the **Iranian National Tax Administration (Avash / INTA)** under strict national audit standards.
-- 💳 **Fintech Wins:** Built real-time high-throughput **Debezium CDC** data pipelines and integrated banking hardware (Smart-Card Printers & Kiosks) for **Mabna Card Aria**.
-- 📡 **Telecom Rescues:** Migrated a massive telecom monolith to a scalable **C# ASP.NET Microservices** architecture, boosting PostgreSQL throughput by 40% at **Sharif Hamrah Pazhohan**.
-- 📱 **Mobile Innovations:** Designed dynamic Server-Driven UI (SDUI) banking frameworks in **Flutter** and eradicated severe JVM memory leaks in Native Android enterprise apps.
+- 🔭 **Currently architecting:** A high-throughput, mission-critical national platform for the Iranian National Tax Administration (INTA) at **Avash**.
+- 🌱 **Currently exploring:** Advanced distributed tracing (**OpenTelemetry**) and optimizing real-time Change Data Capture (**CDC**) pipelines for massive enterprise scale.
+- 👯 **Looking to collaborate on:** Open-source distributed systems, event-driven microservices, and Clean Architecture implementations.
+- 🤝 **Looking for help with:** Expanding open-source Server-Driven UI (SDUI) frameworks and edge-computing paradigms for mobile enterprise apps.
+- 💬 **Let's talk about:** Domain-Driven Design (DDD), C# / .NET Core, Java Spring, Monolith Decomposition, and resolving complex database bottlenecks.
 
 ---
 
-### 🧰 The Architect's Toolbox
+### 🧰 The Architect's Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Architecture** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> |
-| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> |
-| **Data & Messaging** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /> |
-| **DevOps & Cloud** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
-
----
-
-### 📊 System Analytics (GitHub Activity)
+*Here are the core languages, frameworks, and infrastructure tools I work with to build scalable systems:*
 
 <p align="center">
-  <a href="https://github.com/jashakouri">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashakouri&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,go,python,dart,flutter,android,kotlin&perline=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,oracle,sqlite,mysql,kafka,rabbitmq,graphql,docker&perline=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,aws,linux,nginx,bash,git,jenkins,grafana,figma,postman&perline=10" />
   </a>
 </p>
 
-<br/>
+---
+
+### 📊 System Analytics & Activity
+
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i><br/>
-  <b>Let's connect and talk architecture!</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaShakouri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaShakouri&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+</p>
+
+<br/>
+<div align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+</div>
