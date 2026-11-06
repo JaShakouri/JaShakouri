@@ -43,11 +43,12 @@ Welcome to my digital workspace! I'm not just a developer who writes code; I'm a
 
 ---
 
-### 📊 System Analytics (GitHub Stats)
+### 📊 System Analytics (GitHub Activity)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+  <a href="https://github.com/jashakouri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashakouri&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 <br/>
