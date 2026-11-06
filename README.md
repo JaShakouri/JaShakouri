@@ -1,8 +1,6 @@
 <div align="center">
   
-  <a href="https://linkedin.com/in/javad-shakouri">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Javad+Shakouri+👋;Principal+Software+Architect;Enterprise+Systems+Lead;Building+Scalable+Microservices;Turning+Monoliths+into+Clean+Code" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Javad+Shakouri+👋;Principal+Software+Architect;Enterprise+Systems+Lead;Building+Scalable+Microservices;Turning+Monoliths+into+Clean+Code)](https://linkedin.com/in/javad-shakouri)
 
   <p align="center">
     <a href="https://linkedin.com/in/javad-shakouri"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -48,20 +46,9 @@ Welcome to my digital workspace! I'm not just a developer who writes code; I'm a
 ### 📊 System Analytics (GitHub Stats)
 
 <p align="center">
-  <a href="https://github.com/jashakouri">
-    <img src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/jashakouri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jashakouri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashakouri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
 </p>
-
----
-
-### 🏆 Featured Open Source Endeavors
-
-| <a href="https://github.com/JaShakouri/OpenCv-face-detection-recorder"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=OpenCv-face-detection-recorder&theme=tokyonight&bg_color=0D1117&hide_border=true" /></a> | <a href="https://github.com/JaShakouri/Offline-First"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jashakouri&repo=Offline-First&theme=tokyonight&bg_color=0D1117&hide_border=true" /></a> |
-| :---: | :---: |
 
 <br/>
 <p align="center">
